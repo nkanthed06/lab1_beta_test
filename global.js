@@ -11,6 +11,7 @@ let pages = [
   { url: 'contact/index.html', title: 'Contact' },
   { url: 'https://github.com/nkanthed06', title: 'GitHub' },
   { url: 'CV/index.html', title: 'Resume' },
+  { url: 'meta/index.html', title: 'Meta' },
 ];
 
 // Detect if local or on GitHub Pages
